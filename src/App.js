@@ -24,7 +24,7 @@ function App() {
   };
 
   const handleClick = (e) => {
-  href="https://vishnusidea.github.io/VISHNU-website/";
+  window.location.href="https://vishnusidea.github.io/VISHNU-website/";
     }
 
   return (
