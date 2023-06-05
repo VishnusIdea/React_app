@@ -49,7 +49,7 @@ function App() {
           <label>Message</label>
           <textarea name="message" cols="30" rows="10" placeholder='Review for this webpage.....' />
         </div>
-        <button type='submit' onClick={handleClick}>Send</button>
+        <button type='submit' onClick={handleClick}>Login</button>
         {isSend && (
           <div className={classes.isSendmessage}>
             Email has been sent successfully
