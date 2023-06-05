@@ -72,3 +72,22 @@ form button {
   border-radius: 8px;
 }
 
+@media screen and (max-width: 600px)
+{  
+form{  
+height: 65%;
+width: 72%;
+border-radius: 21px;
+margin-right: 156px;
+}
+
+.container{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/src/images/vbg.png);
+}
+
+}
