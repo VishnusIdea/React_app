@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_app/static/css/main.3a0e56e4.css",
+    "main.js": "/React_app/static/js/main.80781892.js",
+    "static/js/787.acba221d.chunk.js": "/React_app/static/js/787.acba221d.chunk.js",
+    "static/media/vishnu background.png": "/React_app/static/media/vishnu background.026c425a8b26c7775a56.png",
+    "index.html": "/React_app/index.html",
+    "main.3a0e56e4.css.map": "/React_app/static/css/main.3a0e56e4.css.map",
+    "main.80781892.js.map": "/React_app/static/js/main.80781892.js.map",
+    "787.acba221d.chunk.js.map": "/React_app/static/js/787.acba221d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a0e56e4.css",
+    "static/js/main.80781892.js"
+  ]
+}
