@@ -37,7 +37,7 @@ function App() {
         </div>
         <div className={classes.inputBox}>
           <label>Genter</label>
-          <input type="text" name="gender"  placeholder='Male/Female'/>
+          <input type="text" name="gender"  placeholder=' Male/Female'/>
         </div>
 
         <div className={classes.inputBox}>
