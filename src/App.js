@@ -42,7 +42,7 @@ function App() {
 
         <div className={classes.inputBox}>
           <label>Email</label>
-          <input type="email" name="email" placeholder='Enteryouremail' />
+          <input type="email" name="email" placeholder='Enter your email' />
         </div>
 
         <div className={classes.inputBox}>
