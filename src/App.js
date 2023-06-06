@@ -47,7 +47,7 @@ function App() {
 
         <div className={classes.inputBox}>
           <label>Message</label>
-          <textarea name="message" cols="30" rows="10" placeholder='Review for this webpage.....' />
+          <textarea name="message" cols="30" rows="10" placeholder='Review for this webpage......' />
         </div>
         <button type='submit' onClick={handleClick}>Login </button>
         {isSend && (
